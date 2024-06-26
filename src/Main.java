@@ -20,7 +20,7 @@ public class Main {
             System.out.println("Welcome " + name);
 
             while (true){
-                System.out.println("MBH Bank...");
+                System.out.println("MBH Bank");
                 System.out.println("Press 1 to check your balance.");
                 System.out.println("Press 2 to add amount.");
                 System.out.println("Press 3 to withdrawal amount.");
